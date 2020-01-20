@@ -22,3 +22,5 @@ Creating a new branch is quick.
 这是主分支，第一句是谁
 
 a啊啊啊啊
+
+fix bug 101
